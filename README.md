@@ -8,6 +8,11 @@
 - The Lion King (1994)
 - La Tumba de Las Luciérnagas (1988)
 - Wall-E (2008)
+
+
+
+
+
 - La Princesa Mononoke (1997)
 - Up (2009)
 - Toy Story (1995)
@@ -52,3 +57,15 @@
 - Solaris
 - Alien
 
+## Top 10 Independent Movies
+
+- Birdman
+- Blue is the warmest color
+- Pulp Fiction
+- Isle of dogs
+- Trainspotting
+- Resevoir Dogs
+- Fight club
+- American History X
+- Amélie
+- Juno
