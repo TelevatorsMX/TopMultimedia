@@ -63,4 +63,16 @@
 - Let The Right One In (2008)
 - Saw (2004)
 - A Horrible Way To Die (2010)
-- The collector (2009)
+
+## Top 10 Thriller Movies
+
+- Seven
+- Sospechosos Comunes
+- Psicosis
+- Silencio de los Inocentes
+- El Sexto Sentido
+- La Ventana Discreta
+- Paycheck
+- 8 Minutos Antes de Morir
+- La Isla Maldita
+- Sherlock Holmes
