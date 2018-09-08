@@ -52,3 +52,15 @@
 - Solaris
 - Alien
 
+## Top 10 XXI Century Horror Movies
+
+- El conjuro (2013)
+- Martyrs (2008)
+- Kairo (2001)
+- I Saw the Devil (2010)
+- Insidious (2010)
+- Thirst (2009)
+- Let The Right One In (2008)
+- Saw (2004)
+- A Horrible Way To Die (2010)
+- The collector (2009)
