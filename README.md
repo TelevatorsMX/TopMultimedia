@@ -3,6 +3,7 @@
 
 
 # Top 10 Animated Movies
+
 1. El viaje de Chihiro (2001)
 2. Your Name (2016)
 3. The Lion King (1994)
@@ -13,3 +14,15 @@
 8. Toy Story (1995)
 9. Toy Story 3 (2010)
 10. Inside Out (2015)
+
+## Top Superhero Movies
+
+- Watchmen
+- Kickass
+- Spiderman
+- Thor
+- Iron Man
+- Spiderman 2
+- Iron Man 2
+- The Incredibles
+- Avengers: Age of Ultron
