@@ -2,7 +2,7 @@
 # TopMultimedia
 
 
-# Top 10 Animated Movies
+## Top 10 Animated Movies
 
 1. El viaje de Chihiro (2001)
 2. Your Name (2016)
@@ -26,3 +26,17 @@
 - Iron Man 2
 - The Incredibles
 - Avengers: Age of Ultron
+
+## Top Action Movies
+
+-The warriors
+-Enter the Dragon
+-Lethal Weapon
+-Die Hard
+-Robocop
+-Commando
+-Predator
+-First Blood
+-The Rock
+-The Matrix
+
