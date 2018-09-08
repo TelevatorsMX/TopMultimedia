@@ -8,11 +8,6 @@
 - The Lion King (1994)
 - La Tumba de Las Luciérnagas (1988)
 - Wall-E (2008)
-
-
-
-
-
 - La Princesa Mononoke (1997)
 - Up (2009)
 - Toy Story (1995)
@@ -56,6 +51,31 @@
 - ET
 - Solaris
 - Alien
+
+## Top 10 XXI Century Horror Movies
+
+- El conjuro (2013)
+- Martyrs (2008)
+- Kairo (2001)
+- I Saw the Devil (2010)
+- Insidious (2010)
+- Thirst (2009)
+- Let The Right One In (2008)
+- Saw (2004)
+- A Horrible Way To Die (2010)
+
+## Top 10 Thriller Movies
+
+- Seven
+- Sospechosos Comunes
+- Psicosis
+- Silencio de los Inocentes
+- El Sexto Sentido
+- La Ventana Discreta
+- Paycheck
+- 8 Minutos Antes de Morir
+- La Isla Maldita
+- Sherlock Holmes
 
 ## Top 10 Independent Movies
 
