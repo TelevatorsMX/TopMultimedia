@@ -76,3 +76,16 @@
 - 8 Minutos Antes de Morir
 - La Isla Maldita
 - Sherlock Holmes
+
+## Top 10 Independent Movies
+
+- Birdman
+- Blue is the warmest color
+- Pulp Fiction
+- Isle of dogs
+- Trainspotting
+- Resevoir Dogs
+- Fight club
+- American History X
+- Amélie
+- Juno
