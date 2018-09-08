@@ -52,3 +52,15 @@
 - Solaris
 - Alien
 
+## Top 10 Thriller Movies
+
+- Seven
+- Sospechosos Comunes
+- Psicosis
+- Silencio de los Inocentes
+- El Sexto Sentido
+- La Ventana Discreta
+- Paycheck
+- 8 Minutos Antes de Morir
+- La Isla Maldita
+- Sherlock Holmes
