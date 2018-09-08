@@ -52,6 +52,45 @@
 - Solaris
 - Alien
 
+## Top 10 XXI Century Horror Movies
+
+- El conjuro (2013)
+- Martyrs (2008)
+- Kairo (2001)
+- I Saw the Devil (2010)
+- Insidious (2010)
+- Thirst (2009)
+- Let The Right One In (2008)
+- Saw (2004)
+- A Horrible Way To Die (2010)
+
+## Top 10 Thriller Movies
+
+- Seven
+- Sospechosos Comunes
+- Psicosis
+- Silencio de los Inocentes
+- El Sexto Sentido
+- La Ventana Discreta
+- Paycheck
+- 8 Minutos Antes de Morir
+- La Isla Maldita
+- Sherlock Holmes
+
+## Top 10 Independent Movies
+
+- Birdman
+- Blue is the warmest color
+- Pulp Fiction
+- Isle of dogs
+- Trainspotting
+- Resevoir Dogs
+- Fight club
+- American History X
+- Amélie
+- Juno
+
+
 ## Top 10 Comedy Movies
 
 - Harold and Kumar go to the White Castle
