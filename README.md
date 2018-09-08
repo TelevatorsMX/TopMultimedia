@@ -89,3 +89,17 @@
 - American History X
 - Amélie
 - Juno
+
+
+## Top 10 Comedy Movies
+
+- Harold and Kumar go to the White Castle
+- Old School
+- Best in Show
+- About a Boy
+- Borat
+- Toy Story
+- Get Out
+- Chicken Run
+- The Lego Movie
+- Paterson
