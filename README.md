@@ -44,4 +44,11 @@
 - The Sixth Sense
 - Seven
 - The Silence of the Lambs
+- The Matrix
+- The Terminator
+- Close Encounters of the Third Kind
+- Star Wars
+- ET
+- Solaris
+- Alien
 
